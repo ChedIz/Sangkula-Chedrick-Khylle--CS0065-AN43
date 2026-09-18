@@ -23,9 +23,9 @@ The project uses KNIME to predict student risk status from academic performance 
 
 ## Author
 
-YOUR NAME
+Sangkula, Chedrick Khylle 
 
 ## Course and Section
 
 CS0065 - Intelligent Systems
-YOUR SECTION
+An 43
